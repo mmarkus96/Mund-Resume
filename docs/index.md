@@ -17,6 +17,7 @@ title: Markus Mund's Resume
 	
 __Brigham Young University__ - Idaho	Rexburg, ID
 Finance B.S. - GPA: 3.9/4.0	`April 2019 - December 2021`
+</div>
 Economics Minor & Data Science Certificate
 -	Received full tuition Thomas E. Ricks scholarship, based on academic achievement
 -	Relevant Classes: Financial Analytics, Advanced Financial Management, Accounting, (Economic) Statistics, Spreadsheet Analysis, Python, SQL, Power BI, Tableau, R, Business Analytics
