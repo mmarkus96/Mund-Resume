@@ -5,6 +5,7 @@ title: Markus Mund's Resume
 
 | <a href="https://www.linkedin.com/in/markusmund96/">LinkedIn</a>
 | <a href="https://github.com/mmarkus96/Mund-Resume">GitHub</a>
+|
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
