@@ -13,7 +13,6 @@ title: Markus Mund's Resume
 # MARKUS MUND
 (208) 757 8355 | markusmlm35@gmail.com | linkedin.com/in/markusmund96/
 
-
 ### WORK EXPERIENCE
 	
 __WebBank Finance Department__	Salt Lake City, UT
