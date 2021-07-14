@@ -13,15 +13,6 @@ title: Markus Mund's Resume
 # MARKUS MUND
 (208) 757 8355 | markusmlm35@gmail.com | linkedin.com/in/markusmund96/
 
-### EDUCATION
-	
-__Brigham Young University__ - Idaho	Rexburg, ID
-Finance B.S. - GPA: 3.9/4.0	`April 2019 - December 2021`
-</div>
-Economics Minor & Data Science Certificate
--	Received full tuition Thomas E. Ricks scholarship, based on academic achievement
--	Relevant Classes: Financial Analytics, Advanced Financial Management, Accounting, (Economic) Statistics, Spreadsheet Analysis, Python, SQL, Power BI, Tableau, R, Business Analytics
- 
 ### WORK EXPERIENCE
 	
 __WebBank Finance Department__	Salt Lake City, UT
@@ -56,6 +47,16 @@ Full-Time Volunteer Representative	`October 2015 - October 2017`
 -	Coached leadership and groups of volunteers of up to 40, increasing understanding, commitment, goal achievement, and planning skills
 -	Gained fluent speaking and writing proficiency in the Ukrainian language within first year of stay
 -	Coordinated area-wide communication, service efforts, and English classes helping dozens of Ukrainians to become fluent English speakers
+
+### EDUCATION
+	
+__Brigham Young University__ - Idaho	Rexburg, ID
+Finance B.S. - GPA: 3.9/4.0	`April 2019 - December 2021`
+</div>
+Economics Minor & Data Science Certificate
+-	Received full tuition Thomas E. Ricks scholarship, based on academic achievement
+-	Relevant Classes: Financial Analytics, Advanced Financial Management, Accounting, (Economic) Statistics, Spreadsheet Analysis, Python, SQL, Power BI, Tableau, R, Business Analytics
+ 
  
 ### CERTIFICATIONS & LANGUAGES
 
